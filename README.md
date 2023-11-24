@@ -6,8 +6,14 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Reza!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Reza%20Izzan%20Fadhila!)](https://git.io/typing-svg)
+   
+</div>
+
+<div align="center">
+
   [![Linkedin: reza-if](https://img.shields.io/badge/reza%E2%80%93if-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-if/)](https://www.linkedin.com/in/reza-if/)
+  [![Instagram: reza.if](https://img.shields.io/badge/reza.if-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/reza.if)](https://www.instagram.com/reza.if)
   [![GitHub rezaif79-ri](https://img.shields.io/github/followers/rezaif79-ri?label=follow&style=social)](https://github.com/rezaif79-ri)
   
 </div>
