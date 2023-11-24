@@ -42,5 +42,10 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
 </p>
 
-[![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaif79-ri&show_icons=true&theme=tokyonight)](https://github.com/rezaif79-ri/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaif79-ri&layout=compact)
+<div align="center">
+
+  [![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaif79-ri&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/rezaif79-ri/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaif79-ri&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+  
+</div>
+
