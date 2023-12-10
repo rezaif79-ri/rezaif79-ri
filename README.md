@@ -45,9 +45,9 @@ Proficient with Golang and JavaScript(NodeJS), strong knowledge in REST-API, mic
 
 
 <a href="https://github.com/rezaif79-ri/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rezaif79-ri&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rezaif79-ri&show_icons=true&theme=tokyonight&rank_icon=github&card_width=300" />
 </a>
 <a href="https://github.com/rezaif79-ri/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaif79-ri&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaif79-ri&theme=tokyonight&layout=compact&langs_count=8&card_width=300" />
 </a>
 
