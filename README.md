@@ -20,7 +20,7 @@
 
 ## 📄 About Me
 Proficient with Golang and JavaScript(NodeJS), strong knowledge in REST-API, microservices, and database, with a passion for researching and implementing new technologies for continous improvement.
-- 💼 Backend Engineer at [Eratani](https://eratani.co.id/)
+- 💼 Backend Engineer at Agritech Startup in Indonesia
 - 🎓 Graduated on June 2022, Bachelor of Computer Science at Universitas Nasional, Jakarta
 
 ## 👩‍💻 Skilled In
